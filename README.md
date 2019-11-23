@@ -6,5 +6,8 @@ This twitter bot is made using python and the functionalities that are added int
 3. Like and retweet the tweets of followers.
 4. Tell name of those followers who are using abusive language in tweets.
 5. Make the wordcloud using the recent 50 tweets of a particular user.
+For demo I have made the wordcloud using the tweets of Narendra Modi:
+
+
 ## Tools
 Tweepy, Matplotlib, Tensorflow, json, numpy, python.
