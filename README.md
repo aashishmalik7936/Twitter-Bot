@@ -1,9 +1,9 @@
 # Twitter-Bot
 ## Introduction
 This twitter bot is made using python and the functionalities that are added into it are:
-1. Follows the followers.
+1. Following particluar user.
 2. Reply to the mentions.
-3. Like and retweet the tweets of followers.
+3. Like and retweet the tweets in feed.
 4. Tell name of those followers who are using abusive language in tweets.
 5. Made the wordcloud using the recent 50 tweets of a particular user and stored them in a 
 database created using MongoDB on local system. 
